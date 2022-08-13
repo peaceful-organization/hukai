@@ -1,3 +1,4 @@
 %{
-  "xxhash": {:hex, :xxhash, "0.2.1", "ab0893a8124f3c11116c57e500485dc5f67817d1d4c44f0fff41f3fd3c590607", [:mix], [], "hexpm"},
+  "expletive": {:hex, :expletive, "0.1.5", "9e29db97aa83309b169870a1c08554a214561a04dc3cc38476141f3c62bd27b7", [:mix], [], "hexpm", "f07359b0b4b8cc39001a688d080373aa05d10ad294f0701b96d9169831ac22fd"},
+  "xxhash": {:hex, :xxhash, "0.2.1", "ab0893a8124f3c11116c57e500485dc5f67817d1d4c44f0fff41f3fd3c590607", [:mix], [], "hexpm", "62dc7fe79cdcbb3e279e4b9409d58f6daaf81502140b928c1605d39f3caf0c3a"},
 }

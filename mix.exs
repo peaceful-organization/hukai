@@ -40,7 +40,8 @@ defmodule Hukai.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:xxhash, "~> 0.2"}
+      {:xxhash, "~> 0.2"},
+      {:expletive, "~> 0.1.0", only: [:dev, :test], runtime: false}
     ]
   end
 end
