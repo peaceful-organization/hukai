@@ -41,7 +41,11 @@ defmodule Hukai.MixProject do
   defp deps do
     [
       {:xxhash, "~> 0.2"},
-      {:expletive, "~> 0.1.0", only: [:dev, :test], runtime: false}
+      {:expletive,
+       git: "https://github.com/peaceful-organization/expletive.git",
+       branch: "peaceful-mods",
+       only: [:dev, :test],
+       runtime: false}
     ]
   end
 end
