@@ -156,14 +156,12 @@ win
 wod
 won
 woo
-wop
 wuh
 zip
 ache
 acts
 adds
 aged
-aids
 aims
 arch
 asks
@@ -513,7 +511,6 @@ peer
 perk
 pick
 pile
-piss
 pity
 plan
 play
@@ -740,7 +737,6 @@ wipe
 wish
 woke
 wold
-wops
 wore
 work
 worn
@@ -1315,7 +1311,6 @@ pours
 power
 press
 price
-prick
 pride
 print
 prize
@@ -2498,7 +2493,6 @@ mopped
 mother
 mounts
 moving
-murder
 murmur
 musing
 muster
@@ -2742,7 +2736,6 @@ result
 resume
 retail
 retain
-retard
 retell
 retied
 retire

@@ -877,7 +877,6 @@ moon
 moth
 move
 muck
-muff
 mule
 muse
 must
@@ -933,7 +932,6 @@ pier
 pike
 pile
 pill
-pimp
 pine
 pink
 pint
@@ -2046,7 +2044,6 @@ pound
 power
 prank
 price
-prick
 pride
 prime
 print
@@ -3085,7 +3082,6 @@ icebox
 icicle
 impact
 import
-incest
 income
 incubi
 indium
@@ -3278,7 +3274,6 @@ mucker
 mucosa
 mullah
 mumble
-murder
 murmur
 muscle
 museum
